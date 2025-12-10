@@ -11,8 +11,8 @@ Data (in the paper downloaded in Oct 2025)
 - Retraction Watch Database : https://gitlab.com/crossref/retraction-watch-data 
 
 Jupyter notebooks
-- `BigqueryTablesCreation.ipynb` : creation Bigquery tables from OpenAlex snapshot
-- `Retraction.ipynb` : analysis performed in the paper divided by categories (works, domains, fields, countries, publishers, authors)
+- `BigqueryTablesCreation.ipynb` : creates BigQuery tables from the OpenAlex snapshot
+- `Retraction.ipynb` : contains all analyses used in the paper, organized by category (works, domains, fields, countries, publishers, authors)
 
 
 
