@@ -8,7 +8,7 @@ Requirments
 Data
 
 - OpenAlex snapshot (in the paper updated Oct 2025): https://openalex.s3.amazonaws.com/browse.html
-- Retraction Watch Database (in the paper downloaded Oct 2025): //gitlab.com/crossref/retraction-watch-data
+- Retraction Watch Database (in the paper downloaded Oct 2025): https://gitlab.com/crossref/retraction-watch-data 
 
 Jupyter notebooks
 - `BigqueryTablesCreation.ipynb` : creation Bigquery tables from OpenAlex snapshot
