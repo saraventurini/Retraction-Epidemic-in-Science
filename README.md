@@ -5,7 +5,7 @@ Repository for the code and analysis in the paper 'The Retraction Epidemic in Sc
 Requirments 
 - `requirements.txt`
 
-Data (in the paper downloaded Oct 2025)
+Data (in the paper downloaded in Oct 2025)
 
 - OpenAlex snapshot : https://openalex.s3.amazonaws.com/browse.html
 - Retraction Watch Database : https://gitlab.com/crossref/retraction-watch-data 
