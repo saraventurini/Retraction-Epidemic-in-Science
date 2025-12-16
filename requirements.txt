@@ -1,9 +1,7 @@
-matplotlib==3.10.5
-numpy==1.26.4
-pandas==2.3.1
-pandas-gbq==0.28.0
-pycountry==24.6.1
-pycountry-convert==0.7.2
-scipy==1.13.1
-statsmodels==0.14.5
+rpy2==3.6.4
+pandas==2.3.3
+numpy==2.3.5
+scipy==1.16.3
 tqdm==4.67.1
+matplotlib==3.10.5
+pycountry==24.6.1
