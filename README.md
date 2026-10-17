@@ -5,10 +5,10 @@ Repository for the code and analysis in the paper 'The Retraction Epidemic in Sc
 Requirments 
 - `requirements.txt`
 
-Data (in the paper downloaded in Oct 2025)
+Data
 
-- OpenAlex snapshot : https://openalex.s3.amazonaws.com/browse.html
-- Retraction Watch Database : https://gitlab.com/crossref/retraction-watch-data 
+- OpenAlex Database (26 June 2026 snapshot) : https://openalex.s3.amazonaws.com/browse.html
+- Retraction Watch Database (26 June 2026 snapshot) : https://gitlab.com/crossref/retraction-watch-data 
 
 Jupyter notebooks
 - `BigqueryTablesCreation.ipynb` : creates BigQuery tables from the OpenAlex snapshot
