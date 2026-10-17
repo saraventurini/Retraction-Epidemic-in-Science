@@ -5,3 +5,4 @@ scipy==1.16.3
 tqdm==4.67.1
 matplotlib==3.10.5
 pycountry==24.6.1
+seaborn==0.13.2
